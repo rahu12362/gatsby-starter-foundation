@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Welcome to My Website
-tagline: Get answers to all your Fitness related Queries
+title: Welcome to My Fitness Blog
+tagline: For a fitter you...........
 featuredImage: /assets/photo-1579758629938-03607ccdbaba.jpg
 cta:
   ctaText: check the blog
-  ctaLink: https://quirky-morse-6a592a.netlify.app/blog
+  ctaLink: https://fitnessblog.netlify.app/blog
 ---
 Wanna get fit like him....checkout the Blog section
