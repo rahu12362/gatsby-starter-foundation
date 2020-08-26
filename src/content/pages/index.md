@@ -8,4 +8,4 @@ cta:
   ctaText: check the blog
   ctaLink: https://fitnessblog.netlify.app/blog
 ---
-Wanna get fit like him....checkout the Blog section
+Wanna get fit like him....
